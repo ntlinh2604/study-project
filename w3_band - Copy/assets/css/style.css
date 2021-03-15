@@ -158,7 +158,7 @@ z-index: 1;
     position: relative;
     margin-top: 46.4px;
     padding-top: 50%;
-    background: url(/assets/img/slider/slider1.jpg) top center/cover no-repeat;
+    background: url(../img/slider/slider1.jpg) top center/cover no-repeat;
 
 }
 #slider .text-content{
