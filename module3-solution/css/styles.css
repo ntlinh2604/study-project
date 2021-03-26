@@ -1,0 +1,38 @@
+body{
+    height: 1000px;
+}
+#header-nav{
+    background-color:rgb(167, 161, 161);;
+   
+}
+
+.navbar-brand ,.navbar-brand:hover, .navbar-brand:focus {
+    text-decoration: none;
+    color:#fff;
+    font-weight: bold;
+    font-size: 30px;
+    margin-left: 50px;
+}
+
+#main-content h2{
+    text-align: center;
+    margin: 80px auto 5px;
+}
+
+.content-section{
+	width:auto;
+	background-color: rgb(167, 161, 161);
+  	margin: 16px;
+}
+.content-desc{
+    margin: 12px;
+}
+.nav-item a{
+    
+    font-size: 25px;
+}
+.nav-item a:hover{
+    background-color: white;
+}
+
+
